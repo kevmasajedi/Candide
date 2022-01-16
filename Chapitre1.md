@@ -1,5 +1,3 @@
-#!markdown
-
 # CHAPITRE 1
 ## DE WESTPHQLIE JUSQU'AU PORTUGAL
 
@@ -10,3 +8,5 @@ Monsieur le baron de Thunder-ten-tronckh est un puissant seigneur de la Westphal
 Le précepteur du château s'appelle Pangloss. Il enseigne la métaphysico-théologo-cosmolo-nigologie. Pour lui, chaque effet a une cause.
  
 Nos nez sont fait pour porter des lunettes, dit-il. Donc, nous avons des lunettes. Les choses sont comme elles sont. Il ne faut pas dire que tout est bien, mais que tout est au mieux.
+
+Ainsi, pour Pangloss, leur monde est le meilleur des monde possible, le châtau du baron est le plus beau des châteaux et la baronne est la meilleur des barronnes.
